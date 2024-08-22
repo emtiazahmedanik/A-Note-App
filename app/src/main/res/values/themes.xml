@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ANote" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#C8BCBC</item>
+    </style>
+
+    <style name="Theme.ANote" parent="Base.Theme.ANote" />
+</resources>
